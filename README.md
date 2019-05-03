@@ -8,11 +8,11 @@
 
 ### Architecture
 
-![](./sreenshot/architecture.png){: width="200" height="200"}
+<img src="./screenshot/architecture.png" width="350" height="200"/>
 
 <br/>
 
-###Data Acquisition
+### Data Acquisition
 
 판매점 정보 업데이트 시간을 고려하여 매주 일요일에 상호명과 소재지를 수집한다. 
 
